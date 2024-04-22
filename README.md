@@ -8,7 +8,7 @@ I hope there are a few people out there, who can help make this configurator wor
 
 This software needs a hotspot function as well for mobile devices or something you can use to connect to the openIPC system...
 
-#openIPC configurator written in python3 by KM|fpv
+# openIPC configurator written in python3 by KM|fpv
 
 I've used thonny for writing this entire thing, because it's fast and easy and also available for all platforms.
 
