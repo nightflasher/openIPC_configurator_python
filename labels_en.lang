@@ -1,0 +1,79 @@
+[basic]
+language=english
+passwd=Password
+windowtitle=OpenIPC Configurator
+[net]
+txtIP=192.168.0.1
+connect=connect
+disconnect=disconnect
+hardware=Choose your device
+sel5=Select 5 GHz Frequency
+sel24=Select 2.4 GHz Frequency
+selfreq=Choose frequency
+WFBset=WFB Settings
+WFBrestart=Restart WFB
+CAMset=Camera Settings
+MAJrestart=Restart Majestic
+telem=Telemetry
+UART2OFF=Disable UART2
+UART2ON=Enable UART2
+
+TabPage4=VRX
+Label2=Be careful what you are changing in the fields below. It could break the VRX.
+TabPage5=Setup
+
+GENkeys=keys Generate keys
+SENDkeys=Send drone.key
+getkeys=Receive drone.key
+FWupdate=Firmware Update
+
+
+OSDtitle=OSD
+OSDele18=--------------------------------------------------
+OSDele17=TIME
+OSDele14=OpenIPC
+OSDele16=Rate
+OSDele15=RX Packets
+OSDele13=RSSI
+OSDele12=DIST
+OSDele11=LON
+OSDele10=LAT
+OSDele9=HDG
+OSDele8=SATS
+OSDele7=THR
+OSDele6=CUR
+OSDele5=CONS
+OSDele4=BAT
+OSDele3=VSPD
+OSDele2=SPD
+OSDele1=ALT
+
+btnRIGHT=RIGHT
+btnLEFT=LEFT
+btnDOWN=DOWN
+btnUP=UP
+RadioButton18=Horizon
+RadioButton17=Flight Time
+RadioButton16=Bitrate
+RadioButton15=RX Packets
+RadioButton14=OpenIPC Logo
+RadioButton13=RSSI
+RadioButton12=Home Distance
+RadioButton11=Longitude
+RadioButton10=Latitude
+RadioButton9=Heading
+RadioButton8=Satellites
+RadioButton7=Throttle
+RadioButton6=Amps. Current
+RadioButton5=Bat. Consumed
+RadioButton4=Battery
+RadioButton3=V.Speed
+RadioButton2=Speed
+RadioButton1=Altitude
+
+
+Label1=IP Address:
+txtPassword=12345
+rBtnCam=OpenIPC Camera
+rBtnNVR=NVR Hi3536
+rBtnRadxaZero3w=Radxa Zero 3w (WFB-ng)
