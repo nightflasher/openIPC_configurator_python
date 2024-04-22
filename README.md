@@ -19,7 +19,7 @@ TODO or wanted list:
 04) connect to pinged device, when ping was successful
 05) get/download the configuration files (list needs update: majestic.yaml/vdec/wfb/wifibroadcast/(set)video.sh/and more)
 06) upload configuration files to the devices
-07) automatic change corresponding configuation based on settings (change cam - automatic change vrx and vice versa)
+07) automatic change corresponding configuration based on settings (change cam - automatic change vrx and vice versa)
 09) update/backup for sensors/vtx/vrx
 10) OSD config - if it's still needed (read about betaflight is implementing this - nice!)
 11) presets for sensors (like imx415 and imx335 and image settings)
